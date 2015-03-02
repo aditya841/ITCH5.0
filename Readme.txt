@@ -1,6 +1,7 @@
 1. main.py: Python program to parse through data
 
-** XlsxWriter library is needed for running this program
+**Requires the Nasdaq ITCH files to run.
+** XlsxWriter, Pickle library is needed for running this program
 ** I have used Python 2.7.6 for running this program
 
 Explanation:
