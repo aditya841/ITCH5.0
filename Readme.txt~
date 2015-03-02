@@ -1,4 +1,6 @@
-1. main.py: Python program to parse through data
+1. Stock_files.tar.gz: It contains ".xlsx" files for each stock. Each stock file contains VWAP calculations for it.
+2. main.py: Python program to parse through data
+3. stock_dictionary.d: It contains the dictionary that keep all records of all transactions, with stock-name as key
 
 ** XlsxWriter library is needed for running this program
 ** I have used Python 2.7.6 for running this program
